@@ -1,0 +1,2 @@
+# th_portifolio_2024
+th_portifolio_2024
