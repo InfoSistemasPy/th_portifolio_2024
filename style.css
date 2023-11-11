@@ -40,12 +40,12 @@ body {
 }
 
 #header .profile .social-links a {
-  font-size: 1rem;
+  font-size: 1.5rem;
   background: #212431;
   color: #fff;
   padding: 0.6rem;
-  margin-right: 1rem;
-  border-radius: 50%;
+  margin-right: 0rem;
+  border-radius: 40%;
   transition: 0.3s;
   text-decoration: none;
 }
